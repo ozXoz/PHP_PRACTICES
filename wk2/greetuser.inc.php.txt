@@ -1,0 +1,4 @@
+<?php
+echo "<strong>Hello $user</strong>";
+include "./inc/nav.inc.php";
+
